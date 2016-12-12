@@ -52,7 +52,7 @@ if (!$conn) {
 }
 
 // sql to create table
-$sql = "CREATE TABLE MyGuests (
+$sql = "CREATE TABLE Healthnews (
 ItemID INT (10) PRIMARY KEY
 Title VARCHAR (20)
 Content NVARCHAR (10)
